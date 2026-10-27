@@ -1,0 +1,14 @@
+
+:root {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #222;
+  background-color: white;
+}
+
+body {
+  margin: 0;
+}
+
+main {
+  padding: 20px;
+}
